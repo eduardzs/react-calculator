@@ -1,4 +1,4 @@
-# Calculadora ReactJS
+# React Calculator
 <a href="https://calculadora-react-psi.vercel.app/">Link do projeto</a>
 
 Esse projeto foi feito visando a consolidação dos conhecimentos básicos de ReactJS.
