@@ -1,35 +1,57 @@
 # React Calculator
-<a href="https://calculadora-react-psi.vercel.app/">Link do projeto</a>
 
-Esse projeto foi feito visando a consolidação dos conhecimentos básicos de ReactJS.
+🚀 Interactive calculator built with React, featuring dynamic operations and theme switching.
 
-Para está construção foram usados os conceitos de states, props, components e stylesheet (flex e grid). Utilizando do conceito de calculadora com mudança de temas (dark e light).
+## 🔗 Live Demo
+👉 https://calculadora-react-psi.vercel.app/
 
-Utilizando o mathjs para os cálculos matemáticos, vite para a criação do boilerplate.
+## 📌 About the Project
 
-<div style="width: 100%;" align="center">
-    <img src="./img/mathjs.png" alt="Imagem do Projeto"><br><br>
-</div>
+This project was developed to strengthen core React concepts and build an interactive user interface.
 
-Para cálculos matemáticos foi utilizado o mathjs pois ele possui uma função muito útil de interpretar strings e gerar a evaluate da expressão aritmética. Algo muito próximo da matemática simbólica na computação.
+It focuses on:
+- State management  
+- Component-based architecture  
+- Dynamic UI updates  
 
-Para a boilerplate foi utilizado o vitejs pois ele faz um uso melhor das tecnologias implementadas no navegador, como o esquema de módulos, possui muito menos arquivos na sua criação inicial do boilerplate. O que não gera o desconforto e a poluição visual que o seu antecessor "create-react-app" fazia.
+## 🛠️ Technologies Used
 
+- React.js  
+- JavaScript  
+- HTML5  
+- CSS3 (Flexbox & Grid)  
+- Vite  
+- Math.js  
 
-<div style="width: 100%;" align="center">
-    <img src="./img/vite.png" alt="Imagem do Projeto">
-</div>
+## 📱 Features
 
-<a align="center" href="https://calculadora-react-psi.vercel.app/">Link do projeto</a>
-<hr>
+- Perform mathematical operations dynamically  
+- Light and dark theme toggle  
+- Responsive and interactive interface  
 
+## 📷 Preview
 
-<div style="width: 100%; text-align: center;" align="center">
-    <h4>Calculadora Calculando</h4>
-    <img src=".\img\calculadora-calculando.gif" alt="Calculadora Calculando GIF">
-    <h4>Tema Dark</h4>
-    <img src=".\img\dark.png" alt="Tema Dark">
-    <h4>Tema Light</h4>
-    <img src=".\img\light.png" alt="Tema Dark">
-</div>
+### 🧮 Calculator in action
+![Calculator](./img/calculadora-calculando.gif)
 
+### 🌙 Dark Theme
+![Dark Theme](./img/dark.png)
+
+### ☀️ Light Theme
+![Light Theme](./img/light.png)
+
+## 📚 What I Learned
+
+- Managing state and component structure in React  
+- Handling user input and dynamic updates  
+- Using external libraries like Math.js  
+- Working with modern tooling (Vite)  
+
+## ⚙️ How It Works
+
+- Mathematical expressions are handled using **Math.js**, which parses and evaluates input dynamically  
+- The project was bootstrapped with **Vite** for a faster and cleaner development environment  
+
+---
+
+💡 Project focused on building interactive interfaces and strengthening React fundamentals.
